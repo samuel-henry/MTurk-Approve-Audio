@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QuestionForm xmlns="http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionForm.xsd">
+  <Question>
+   <QuestionIdentifier>1</QuestionIdentifier>
+   <QuestionContent>
+     <Text>Record yourself saying the word: ${words}</Text>
+     <List>
+	  <ListItem>Turn off all background music, tv, or other audio so your room is quiet</ListItem>
+	  <ListItem>Go to http://vocaroo.com</ListItem>
+	  <ListItem>Click "Click to Record" button</ListItem>
+	  <ListItem>Click "Allow camera and microphone access"</ListItem>
+	  <ListItem>Say the requested word</ListItem>
+	  <ListItem>Click "Click to Stop"</ListItem>
+	  <ListItem>Click "Listen" to make sure your recording is clear, or else click "Retry"</ListItem>
+	  <ListItem>Click "Click here to save" to save your recording</ListItem>
+	  <ListItem>Copy the url that's in the "Sharing options" field</ListItem>
+	  <ListItem>Paste the full url below</ListItem>
+	</List>
+	<Text>Link to recording (for example: http://vocaroo.com/i/s0pgRK2AbFRK):</Text>
+   </QuestionContent>
+   <AnswerSpecification>
+     <FreeTextAnswer/>
+   </AnswerSpecification>
+  </Question>
+</QuestionForm>
