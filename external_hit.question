@@ -18,7 +18,7 @@
 		<ListItem>Select the "Send ZIP to email?" checkbox</ListItem>
 		<ListItem>Select the "Send zipped files to email?" button</ListItem>
 		<ListItem>Enter a3ldodhufnkwru@gmail.com in the "Send zipped files to email (required):" box</ListItem>
-		<ListItem>Enter Turker in the "Your name:" box (NOTE: Do NOT enter your real name here)</ListItem>
+		<ListItem>Enter ${words} in the "Your name:" box (NOTE: Do NOT enter your real name here)</ListItem>
 		<ListItem>Enter a3ldodhufnkwru@gmail.com in the "Your email:" box (NOTE: Do NOT enter your real email address here)</ListItem>
 		<ListItem>Enter ${words} in the "Message:" box</ListItem>
 		<ListItem>Enter the specified number in the "Write above number here:" box</ListItem>
