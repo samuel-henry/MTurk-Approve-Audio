@@ -10,3 +10,6 @@ sh loadHits.sh -input ./approve_audio/external_hit.input -question ./approve_aud
 
 To get results:
 sh getResults.sh -successfile external_hit.success -outputfile external_hit.results
+
+To delete HITs:
+sh deleteHits.sh -successfile external_hit.success -expire
